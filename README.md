@@ -1,0 +1,1 @@
+# github-linear-history-ruleset-CGS
