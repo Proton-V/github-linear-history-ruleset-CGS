@@ -1,2 +1,2 @@
 # github-linear-history-ruleset-CGS
-feature sample-1
+bugfix feature sample-1
